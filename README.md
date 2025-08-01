@@ -44,3 +44,19 @@ normal text
 1. List 3
     1. sub 1
     1. sub 2
+
+## Image 
+![Boy](boy.jpg)
+
+## Link
+CSS Framework [Bootstrap]
+(https://www.w3schools.com/)
+
+## Sing line code
+`print("hello")`
+
+## mltiple line
+```python
+for i in range(10):
+    print(i)
+```
