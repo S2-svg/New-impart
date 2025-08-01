@@ -61,4 +61,8 @@ for i in range(10):
     print(i)
 ```
 ## Button
-<a hre="https://www.w3schools.com/html/html_intro.asp" target="_blank">Click here</a>
+<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">Click here</a>
+
+
+## Badge
+[![app](https://img.shields.io/badge/PNC-green)](https://www.w3schools.com/)
