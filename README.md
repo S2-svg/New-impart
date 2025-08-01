@@ -19,3 +19,28 @@ normal text
 - [x] Task 2
 - [] Task 3
 - [] Task 4
+
+## Table
+|id | name | age | status |
+|---|------|-----|--------|
+|01 | rady | 200 | true   |
+|01 | rady | 200 | true   |
+|01 | rady | 200 | true   |
+|01 | rady | 200 | true   |
+
+## Block Quote
+
+> This is markdown block quote
+
+## List
+- List 1
+- List 2
+- List 3
+    - sub 1
+    - sub 2
+
+1. List 1
+1. List 2
+1. List 3
+    1. sub 1
+    1. sub 2
