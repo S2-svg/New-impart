@@ -65,4 +65,4 @@ for i in range(10):
 
 
 ## Badge
-[![app](https://img.shields.io/badge/PNC-green)](https://www.w3schools.com/)
+[![app](https://img.shields.io/badge/Learning-Markdown-green)](https://www.w3schools.com/)
